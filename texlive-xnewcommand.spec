@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-xnewcommand
 Version:	1.2
-Release:	10
+Release:	11
 Summary:	Define \global and \protected commands with \newcommand
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xnewcommand
