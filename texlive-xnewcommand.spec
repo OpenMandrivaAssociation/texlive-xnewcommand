@@ -1,6 +1,6 @@
 Name:		texlive-xnewcommand
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Define \global and \protected commands with \newcommand
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xnewcommand
