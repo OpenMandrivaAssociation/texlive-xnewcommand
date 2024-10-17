@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Define \global and \protected commands with \newcommand
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xnewcommand
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xnewcommand
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xnewcommand.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xnewcommand.doc.r%{version}.tar.xz
